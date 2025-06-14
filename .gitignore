@@ -1,0 +1,38 @@
+# General
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# C/C++
+*.o
+*.out
+*.exe
+*.obj
+*.pdb
+a.out
+
+# Go
+*.test
+bin/
+pkg/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-*
+
+# Misc
+*.env
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+.pytest_cache/
